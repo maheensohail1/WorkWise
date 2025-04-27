@@ -10,7 +10,7 @@
            {{ title }}
           </h1>
           <p class="my-4 text-xl text-white">
-            Find the Vue job that fits your skills and needs
+            Find the job that fits your skills and needs
           </p>
         </div>
       </div>
