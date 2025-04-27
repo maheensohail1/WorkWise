@@ -23,7 +23,7 @@
     defineProps({
         title: {
             type: String,
-            default: 'Become a Dev'
+            default: 'Explore Jobs. Unlock Potential'
         },
         subtitle: {
             type: String,
